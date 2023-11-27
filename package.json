@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev --https=true --ssl-cert=./wildcard.tracle.saico.project.pem --ssl-key=./wildcard.tracle.saico.project-key.pem",
+    "dev": "nuxt dev --https=true --ssl-cert=./localhost.pem --ssl-key=./localhost-key.pem",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
