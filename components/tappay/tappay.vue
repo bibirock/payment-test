@@ -2,7 +2,7 @@
  * @Author: Joe.Chen
  * @Date: 2023-11-27 17:22:47
  * @LastEditors: Joe.Chen joechen@tracle-tw.com
- * @LastEditTime: 2023-11-27 17:25:34
+ * @LastEditTime: 2023-11-27 10:28:05
  * @Description: 
 -->
 
@@ -166,9 +166,6 @@ onMounted(() => {
 </script>
 
 <template>
-  <div>
-    金流串接測試
-  </div>
   <div class="tpfield" id="card-number"></div>
   <div class="tpfield" id="card-expiration-date"></div>
   <div class="tpfield" id="card-ccv"></div>
